@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **a few games on the godot game engine**
 
-- 🌱 I’m currently learning **express, mysql, postman**
+- 🌱 I’m currently learning **rust, SQL, api**
 
 - 👨‍💻 All of my projects are available at [https://ethmic.github.io/portfolio/](https://ethmic.github.io/portfolio/)
 
-- 💬 Ask me about **godot, js**
+- 💬 Ask me about **rust, godot**
 
 - 📫 How to reach me **amannegesse@gmail.com**
 
