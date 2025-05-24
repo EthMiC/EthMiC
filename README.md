@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm EthMiC_</h1>
-<h3 align="center">A game dev and front end developer from Ethiopia</h3>
+<h3 align="center">A generalized developer with a passion for GameDev</h3>
 
-- 🔭 I’m currently working on **a few games on the godot game engine**
+- 🔭 I’m currently working on **a telegram bot using the rust programming language**
 
 - 🌱 I’m currently learning **rust, SQL, api**
 
